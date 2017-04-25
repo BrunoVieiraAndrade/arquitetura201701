@@ -19,4 +19,4 @@ Devido à natureza simplória do projeto e à equipe reduzida não será definid
 
 ## 3. Sistema de Configuração
 
-Repositório no GitHub: https://github.com/matheuspiment/dbook
+Repositório no GitHub: https://github.com/BrunoVieiraAndrade/arquitetura201701
