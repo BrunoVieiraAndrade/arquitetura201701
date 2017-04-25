@@ -1,2 +1,4 @@
-# arquitetura201701
-Repositório para a disciplina de Arquitetura de Software 2017/1, do curso de Engenharia de Software, Instituto de Infomática - UFG. 
+# Definição arquitetural utilizada no sistema SISB
+
+
+Repositório destinado aos artefatos que constituem a documentação arquitetural do sistema SISB
