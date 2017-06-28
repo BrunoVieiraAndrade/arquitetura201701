@@ -9,8 +9,8 @@ Devido à natureza simplória do projeto e à equipe reduzida não será definid
 |      Item de Configuração      | Nomenclatura            |
 |:------------------------------:|:----------------------:|
 | Plano Geral de Configuração | PGC.md |
-|  Documento de Arquitetura de Software |    ArquiteturaSIS-B.pdf        |
-| Imagem | IMG-descricao.jpg |
+|  Documento de Arquitetura de Software |    Documento de Arquitetura eSaudeBucal.pdf        |
+| Imagem | Diagramas |
 
 
 ## 2. Estrutura do Repositório
